@@ -11,7 +11,9 @@ A brief description of
 
 ### Solution Description
 ----------------------------------
+#### Architecture Diagram
 
+Affix an image of the flow diagram/architecture diagram of the solution
 
 
 #### Technical Description
